@@ -1,3 +1,3 @@
-export default function About() {
-    return <h1>About Us</h1>;
+export default function Login() {
+    return <h1>Login with Us</h1>;
 }
